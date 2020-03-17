@@ -8,7 +8,9 @@ The next phase is to control the river after it reaches the sea. For example thr
 
 One idea might be to use metaballs to form the flowing water. Another could be to find the gradient in some points on the terrain mesh and form a path that is projected down onto the mesh, whereupon the water is rendered around the path somehow.
 
-The graphics could be low-poly in a nice, stylized way. Pastel colors could look nice. Half-top down with an orthographic camera would probably fit well. A graphics style kind of like Poly Bridge is what I am imagining.
+The graphics could be low-poly in a nice, stylized way. Pastel colors could look nice. Half-top down with an orthographic camera would probably fit well. A graphics style kind of like Poly Bridge is what I am imagining. Something like in the mockup animation below:
+
+![mockupGif](art/mockupGif.gif)
 
 No god mode (potentially there could be a god mode if it is wanted), there should be some kind of currency that you need in order to make changes. Changes should include making the soil/earth/rock different, changing height of terrain etc.
 
